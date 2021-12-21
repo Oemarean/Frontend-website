@@ -43,7 +43,7 @@ Main pagina
 <img src="breakdown/Capture1.png" width="375px" alt="omschrijving van de pagina">
  <img src="breakdown/Capture2.png" width="375px" alt="omschrijving van de pagina">
  <img src="breakdown/Capture3.png" width="375px" alt="omschrijving van de pagina">
- <img src="breakdown/Capture4.png" width="375px" alt="omschrijving van de pagina">
+ <img src="../breakdown/Capture4.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 detail pagina 
