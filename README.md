@@ -86,8 +86,9 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-
 </details>
+
+
 ## Voortgang 1 (week 4)
 
 <details open>
@@ -95,6 +96,8 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+</details>
 
 
 ## Eindgesprek (week 5)
@@ -110,8 +113,6 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 hier screenshot(s) van je eindresultaat
 
 </details>
-
-
 
 
 
