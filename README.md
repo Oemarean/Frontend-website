@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Oemar Alkatiri
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Middel (no expert, not a newbie either)
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Responisive
  
 </details>
 
@@ -36,14 +36,14 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+Schiphol.nl 
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Main pagina
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+detail pagina 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -67,10 +67,7 @@ hier de naam van de pagina
 </details>
 
 
-
-
-
-## Voortgang 1 (week 2)
+## Voortgang 2 (week 2)
 
 <details open>
 <summary>uitwerken voor 1e voortgang</summary>
@@ -79,131 +76,28 @@ hier de naam van de pagina
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
 </details>
 
+## Voortgang 3 (week 3)
 
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-<summary>uitwerken voor 2e voortgang</summary>
+<details open>
+<summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
 </details>
 
 
+## Voortgang 4 (week 4)
 
-
-
-## Toegankelijkheidstest (week 4)
-
-<details>
-<summary>uitwerken na test in 8e voortgang</summary>
-
-### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-</details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
-<details>
-<summary>uitwerken voor 3e voortgang</summary>
+<details open>
+<summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
 </details>
-
-
-
 
 
 ## Eindgesprek (week 5)
@@ -219,8 +113,6 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 hier screenshot(s) van je eindresultaat
 
 </details>
-
-
 
 
 
