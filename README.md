@@ -67,7 +67,7 @@ detail pagina
 </details>
 
 
-## Voortgang 1 (week 2)
+## Voortgang 2 (week 2)
 
 <details open>
 <summary>uitwerken voor 1e voortgang</summary>
@@ -78,7 +78,7 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 </details>
 
-## Voortgang 1 (week 3)
+## Voortgang 3 (week 3)
 
 <details open>
 <summary>uitwerken voor 1e voortgang</summary>
@@ -89,7 +89,7 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 </details>
 
 
-## Voortgang 1 (week 4)
+## Voortgang 4 (week 4)
 
 <details open>
 <summary>uitwerken voor 1e voortgang</summary>
